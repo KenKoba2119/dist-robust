@@ -4,7 +4,7 @@ This repository provides the source code to reproduce the results in the followi
 
 Ken Kobayashi, Yuichi Takano and Kazuhide Nakata:  
 Cardinality-constrained Distributionally Robust Portfolio Optimization.  
-arXiv preprint, arXiv:2112.12454 (2021).
+arXiv preprint, arXiv:2112.12454 (2021).  
 DOI: https://doi.org/10.48550/arXiv.2112.12454
 
 ## Requirements
