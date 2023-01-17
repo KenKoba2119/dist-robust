@@ -1,12 +1,15 @@
 # Cardinality-constrained distributionally robust portfolio optimization
 
-This repository provides the source code to reporoduce the results in the following paper:
+This repository provides the source code to reproduce the results in the following paper:
 
 Ken Kobayashi, Yuichi Takano and Kazuhide Nakata:  
 Cardinality-constrained Distributionally Robust Portfolio Optimization.  
 arXiv preprint, arXiv:2112.12454 (2021).
+DOI: https://doi.org/10.48550/arXiv.2112.12454
 
 ## Requirements
 
 To run the attached source code, you have to get `Mosek Licence` and `Gurobi WSL License` in advance. 
-Put these license files in the home directory of this repository.
+Put `mosek.lic` and `gurobi.lic` in the home directory of this repository.
+
+## Getting Started
