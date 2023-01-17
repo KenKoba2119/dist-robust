@@ -8,5 +8,5 @@ arXiv preprint, arXiv:2112.12454 (2021).
 
 ## Requirements
 
-To run the attached source code, you have to get `Mosek Licence` and `Gurobi WSL License`. 
+To run the attached source code, you have to get `Mosek Licence` and `Gurobi WSL License` in advance. 
 Put these license files in the home directory of this repository.
