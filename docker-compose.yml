@@ -1,0 +1,11 @@
+version: '3'
+services:
+  misdp:
+    build: .
+    image: misdp
+    container_name: misdp
+    volumes:
+      - .:/home
+      - ./mosek.lic:/opt/mosek/mosek.lic
+      - ./gurobi.lic:/opt/gurobi/gurobi.lic:ro
+    tty: true
