@@ -6,6 +6,6 @@ services:
     container_name: misdp
     volumes:
       - .:/home
-      - ./mosek.lic:/opt/mosek/mosek.lic
+      - ./mosek.lic:/home/mosek/mosek.lic
       - ./gurobi.lic:/opt/gurobi/gurobi.lic:ro
     tty: true
